@@ -1,4 +1,12 @@
 {
-  "name": "VishalHaswani.github.io",
+  "name": "vishal-haswani-portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio website for a Software Engineer",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Haswani <vishalhaswani87769@gmail.com>",
+  "license": "MIT",
   "packageManager": "yarn@3.4.1"
 }
